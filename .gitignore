@@ -31,6 +31,7 @@ __pycache__
 .DS_Store
 \#*#
 .#*
+*.csv
 .coverage
 .pytest_cache
 src
